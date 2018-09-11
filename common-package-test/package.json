@@ -1,0 +1,6 @@
+{
+  "name": "common-package-test",
+  "version": "1.0.0",
+  "description": "本地公共模块包",
+  "main": "index.js"
+}
